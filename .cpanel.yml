@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/uq44x878gx66/Budget/
+    - export DEPLOYPATH=/home/o44uty6ifogt/Budget/
     - /bin/cp -R src $DEPLOYPATH
     - /bin/cp -R public $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH

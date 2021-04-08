@@ -1,6 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/sef2l35ww95r/node
+    - export DEPLOYPATH=/home/uq44x878gx66/node
     - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp package.json $DEPLOYPATH
    
